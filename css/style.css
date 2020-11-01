@@ -411,6 +411,8 @@ Sidebar
 }
 
 .hero-btn {
+    background-color: white;
+    color: black;
     margin-top: 1.25rem;
 }
 
